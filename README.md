@@ -23,3 +23,7 @@ In this project we tried building a Visual Question Answering (VQA) web-app usin
 Libraries and Frameworks used:
 Pytorch
 Streamlit
+
+To use the model, run "streamlit run app.py" in the terminal, after installing the necessary libraries and frameworks as mentioned above.
+
+Note: The model was trained in WSL (Windows Subsystem for Linux). However, please make sure use the repo in Windows to make proper use of it. Thank you!
