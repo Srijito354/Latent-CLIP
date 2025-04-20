@@ -13,10 +13,10 @@ Upon further improvement this model can be of much use in edge AI applications l
 The Visual Question Answering model that we built using the approach is a mere demonstration of *Latent Processing's* capabilities...
 
 Team IkAI members: 
-Srijito Ghosh:- GitHub: https://www.github.com/Srijito354
-Muskan Kumari:- GitHub: https://www.github.com/Muskan040399
+Srijito Ghosh:- GitHub: ![link]https://www.github.com/Srijito354
+Muskan Kumari:- GitHub: ![link]https://www.github.com/Muskan040399
 
-In this project we tried building a Visual Question Answering (VQA) web-app using a CLIP model (built entirely from scratch), trained using the same *original to latent space compression technique*, as mentioned before. It was trained on the EasyVQA dataset (GH link: https://github.com/vzhou842/easy-VQA.git).
+In this project we tried building a Visual Question Answering (VQA) web-app using a CLIP model (built entirely from scratch), trained using the same *original to latent space compression technique*, as mentioned before. It was trained on the EasyVQA dataset (GH: ![link]https://github.com/vzhou842/easy-VQA.git).
 
 Libraries and Frameworks used:
 Pytorch
