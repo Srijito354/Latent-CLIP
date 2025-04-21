@@ -10,7 +10,7 @@ However, instead of applying latent attention technique only during the caching 
 
 This approach not only makes training the thing easier, but also ensures faster inference on lower end hardware in a world where higher-end GPUs are getting expensive and difficult to procrure with each coming day...
 
-Upon further improvement this model will be of much use in edge AI applications like, robotics. With proper robotics hardware, mated with a more diverse real-world dataset, this *approach* can certainly qualify to come in the big league of Vision-Language-Action models!
+Upon further improvement this model will be of much use in edge AI applications like, robotics. With proper robotics hardware, mated with a more diverse real-world dataset for scene reasoning (like GQA), this *approach* can certainly qualify to come in the big league of Vision-Language-Action models!
 
 The Visual Question Answering model that we built using the approach is a mere demonstration of *Latent Processing's* capabilities...
 
