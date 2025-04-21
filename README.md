@@ -1,4 +1,4 @@
-# Modalities got latent: A novel approach to latent space for more efficient usage of resources in multi-modal models.
+# Modalities got latent: A novel approach to use latent spaces for more efficient usage of resources in multi-modal models.
 
 We present to you a novel approach to solving multi-modal problems using what we call, *"Latent processing"*:
 This approach was heavily inspired by the Multi-head Latent Attention paper as published by DeepSeek, back in 2024.
