@@ -30,4 +30,4 @@ To use the model, run "streamlit run app.py" in the terminal, after installing t
 
 Note: The model was trained in WSL (Windows Subsystem for Linux). However, please make sure use the repo in Windows to make proper use of it. Thank you!
 
-Check out the deployed app here: https://latent-clip-busmwsdi4hghbhw6erkays.streamlit.app/
+Check out the deployed app here!: https://latent-clip-busmwsdi4hghbhw6erkays.streamlit.app/
