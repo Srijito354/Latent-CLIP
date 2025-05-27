@@ -1,5 +1,7 @@
 # Modalities got latent: A novel approach to use latent spaces for more efficient usage of resources in multi-modal models.
 
+[Link to deployed app has been attached below]
+
 We present to you a novel approach to solving multi-modal problems using what we call, *"Latent processing"*:
 This approach was heavily inspired by the Multi-head Latent Attention paper as published by DeepSeek, back in 2024.
 However, instead of applying latent attention technique only during the caching time, Latent processing compresses the Query, Key, and Value vectors into latent spaces at the very beginning before passing them to the transformer encoder blocks. As shown in the image below
@@ -27,3 +29,5 @@ Streamlit
 To use the model, run "streamlit run app.py" in the terminal, after installing the necessary libraries and frameworks as mentioned above.
 
 Note: The model was trained in WSL (Windows Subsystem for Linux). However, please make sure use the repo in Windows to make proper use of it. Thank you!
+
+Check out the deployed app here: https://latent-clip-busmwsdi4hghbhw6erkays.streamlit.app/
