@@ -228,4 +228,4 @@ def run_inference(image_path, question):
     #print(answer_ems2[predicted])
     return answer_ems2[predicted].strip()
 
-#run_inference("tg.jpg", "what is the color of the triangle?")
+run_inference("tg.jpg", "what is the color of the triangle?")
